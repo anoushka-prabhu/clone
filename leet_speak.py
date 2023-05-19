@@ -8,7 +8,7 @@
 # Date:         11 October 2022
 #
 
-text = input("Enter some text:")
+text = input("Enter some kind of text:")
 words = text.split()
 keys = {'a' : '4', 'e' : '3', 'o' : '0', 's' : '5', 't' : '7'}
 leetlist = []
